@@ -1,4 +1,4 @@
-package project;
+﻿package project;
 
 public class SwapUtil {
 	public static void swap(int[] arr,int i, int index) {
